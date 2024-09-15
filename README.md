@@ -12,7 +12,7 @@
 
 > [Buradan](https://www.ora.io/app/tasks/dashboard/) hesap oluşturun.
 
-> Sağ altta ref kısmına `ZFIC47` kodunu girerek 5 puan alabilirsiniz. (Davetler 'direkt' puan vermiyor, davet edilen alıyor.)
+> Sağ altta ref kısmına `B4PUJP` kodunu girerek 5 puan alabilirsiniz. (Davetler 'direkt' puan vermiyor, davet edilen alıyor.)
 
 > Bu cüzdan hem node puanları hem de diğer puanları toplamak için kullanın.
 
